@@ -6,7 +6,7 @@ public class RuntimeExample {
 		Multiplication obj = new Multiplication();
 		System.out.println("a * b ="+ obj.calculate(10, 2));
 		
-		Division obj2 = new Division();
+		Multiplication obj2 = new Division();
 		System.out.println("a * b ="+ obj2.calculate(10, 2));
 	}
 }
